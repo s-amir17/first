@@ -17,4 +17,6 @@ console.log(example2());
 console.log(example2());
 console.log(example2());
 
+console.log("new branch 2");
+
 console.log("main branch 2");
